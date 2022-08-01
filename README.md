@@ -1,6 +1,3 @@
-# demo01
-Prueba 
-
-Prueba nueva cuenta
-
-Prueba local
+git status
+git add .
+git push origin main
